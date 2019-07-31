@@ -1,4 +1,4 @@
-# passwordless_login
+# Passwordless Login Example with Firebase Auth in Flutter
 
 A new Flutter project.
 
