@@ -1,4 +1,4 @@
-# passwordless_login
+# Flutter Passwordless Login Example
 
 I have made this repository to showcase the Sign in with Email and Link feature of Firebase Auth with Flutter.
 ## Getting Started
